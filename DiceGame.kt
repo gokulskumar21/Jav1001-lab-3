@@ -1,3 +1,7 @@
+/*
+This assignment was done in group with Gokul Saji Kumar(A00273682), Rohan Yesudasan Kalathivila(A00278674), Kamaljit Kaur(A00278618)
+We did brainstorming in developing the logic and debugging the code.
+*/
 package game
 
 fun main() {
